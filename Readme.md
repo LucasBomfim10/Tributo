@@ -9,7 +9,7 @@ Este é um projeto criado para o desafio de criar uma página tributo para algu�
 
 ## Screenshot
 
-![Screenshot do projeto Photo Gallery](./screenshot.png)
+![Screenshot do projeto Photo Gallery](./screenshot.PNG)
 
 ## Funcionalidades
 A página contém uma linha do tempo da vida de Aaron Swartz e uma citação destacada, além de um link para sua página na Wikipedia. A página é responsiva e pode ser visualizada em diferentes tamanhos de tela.
